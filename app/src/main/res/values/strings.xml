@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMDB Rating Movie Apps</string>
+    <string name="title_movies">Title Movies</string>
+    <string name="movies">Top 250 Movies</string>
+    <string name="txt_rank">1</string>
+    <string name="txt_rating">1.0041</string>
+    <string name="years">1990</string>
+    <string name="txt_years">Year</string>
+    <string name="txt_crew">Crew</string>
+    <string name="crew_name">Crew Name</string>
+</resources>
